@@ -97,7 +97,7 @@ Banking-Analytics-Dashboard/
 ├── BankingDashboard.pbix      # Power BI report file
 ├── data/                      # Dataset files (CSV / Excel)
 ├── images/                    # Dashboard screenshots
-│   └── dashboard-overview.png
+│   └── ![Dashboard Preview](dashboard-overview.png)
 └── README.md
 ```
 
