@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that gives a one-page view of a bank's customers, deposits, loans, transactions and branch performance. It is built to help management track growth, spot top-performing branches and channels, and monitor progress against targets.
 
-![Dashboard Preview](images/dashboard-overview.png)
+![Dashboard Preview](dashboard-overview.png)
 
 ---
 
@@ -97,7 +97,7 @@ Banking-Analytics-Dashboard/
 ├── BankingDashboard.pbix      # Power BI report file
 ├── data/                      # Dataset files (CSV / Excel)
 ├── images/                    # Dashboard screenshots
-│   └── ![Dashboard Preview](dashboard-overview.png)
+│   └── dashboard-overview.png 
 └── README.md
 ```
 
