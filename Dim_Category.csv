@@ -1,0 +1,13 @@
+Category,Type,CategoryGroup,SortOrder
+Groceries,Debit,Essentials,1
+Rent & EMI,Debit,Essentials,2
+Utilities,Debit,Essentials,3
+Healthcare,Debit,Essentials,4
+Dining,Debit,Lifestyle,5
+Shopping,Debit,Lifestyle,6
+Travel,Debit,Lifestyle,7
+Transfers out,Debit,Movement,8
+Salary,Credit,Income,9
+Transfers in,Credit,Income,10
+Refunds,Credit,Income,11
+Interest,Credit,Income,12
